@@ -1,0 +1,4 @@
+2019-10-02 15:47:15,078 - root - INFO - test root logger
+2019-10-02 15:47:15,085 - 191002_154715_mylogger - INFO - test my logger
+2019-10-02 15:47:15,085 - 191002_154715_mylogger - INFO - test only my logger1
+2019-10-02 15:47:15,086 - 191002_154715_mylogger - INFO - test only my logger2
